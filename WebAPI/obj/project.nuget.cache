@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "is6GbEFT4sG8nSRuY6a+resPRSiAQ+jkOz3LtSdz4ewDr/4WxW+bblQPeMr/SrgL2FFQ58xNR0LhQxZsuua4bg==",
+  "success": true,
+  "projectFilePath": "C:\\PROJELER\\yazılım proje yönetimi\\YazılımProjeYönetimi\\WebAPI\\WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ayşe Bayrak\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

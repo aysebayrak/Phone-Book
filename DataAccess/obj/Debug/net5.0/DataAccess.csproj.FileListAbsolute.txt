@@ -1,0 +1,17 @@
+C:\PROJELER\yazılım proje yönetimi\YazılımProjeYönetimi\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\PROJELER\yazılım proje yönetimi\YazılımProjeYönetimi\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJELER\yazılım proje yönetimi\YazılımProjeYönetimi\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\PROJELER\yazılım proje yönetimi\YazılımProjeYönetimi\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\PROJELER\yazılım proje yönetimi\YazılımProjeYönetimi\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\PROJELER\yazılım proje yönetimi\YazılımProjeYönetimi\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\PROJELER\yazılım proje yönetimi\YazılımProjeYönetimi\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\PROJELER\yazılım proje yönetimi\YazılımProjeYönetimi\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\PROJELER\yazılım proje yönetimi\YazılımProjeYönetimi\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\PROJELER\yazılım proje yönetimi\YazılımProjeYönetimi\DataAccess\bin\Debug\net5.0\Core.dll
+C:\PROJELER\yazılım proje yönetimi\YazılımProjeYönetimi\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\PROJELER\yazılım proje yönetimi\YazılımProjeYönetimi\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\PROJELER\yazılım proje yönetimi\YazılımProjeYönetimi\DataAccess\bin\Debug\net5.0\Core.pdb
+C:\PROJELER\yazılım proje yönetimi\YazılımProjeYönetimi\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\PROJELER\yazılım proje yönetimi\YazılımProjeYönetimi\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\PROJELER\yazılım proje yönetimi\YazılımProjeYönetimi\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\PROJELER\yazılım proje yönetimi\YazılımProjeYönetimi\DataAccess\obj\Debug\net5.0\DataAccess.pdb
